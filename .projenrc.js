@@ -3,7 +3,7 @@ const {
   web,
 } = require('projen');
 
-const PROJECT_NAME = 'nft-landing-page';
+const PROJECT_NAME = 'landing-page';
 
 const frontend = new web.ReactTypeScriptProject({
   defaultReleaseBranch: 'main',

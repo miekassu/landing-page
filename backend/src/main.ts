@@ -27,7 +27,7 @@ const devEnv = {
 
 const app = new App();
 
-new FrontendDeployment(app, 'nft-landing-page', { env: devEnv });
+new FrontendDeployment(app, 'landing-page', { env: devEnv });
 // new MyStack(app, 'my-stack-prod', { env: prodEnv });
 
 app.synth();

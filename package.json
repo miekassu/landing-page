@@ -1,5 +1,5 @@
 {
-  "name": "nft-landing-page-frontend",
+  "name": "landing-page-frontend",
   "scripts": {
     "clobber": "npx projen clobber",
     "compile": "npx projen compile",
