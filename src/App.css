@@ -1,0 +1,14 @@
+.body {
+    margin: 0 auto;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.gradient {
+    background: linear-gradient(70deg, #020024 0%, #00d4ff 100%);
+}
+
+.timeline-border {
+    left: 50%;
+    border: 2px solid #020024;
+    border-radius: 1%;
+}
